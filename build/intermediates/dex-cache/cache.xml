@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nick\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-a0b3366847f7d29a26cad0b074a572622005fc2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ca5fd5aae508a536f92c7692a25405d65aa4f708.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nick\Downloads\WeatherApp\Weather App\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\pre-dexed\debug\volley-bfa5d23b2fa6ddcc87e6f1a04e8f2083406e7f2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\pre-dexed\debug\classes-5143445c8473ebfe06d67cbba92e17075a06b7d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Nick\Downloads\WeatherApp\Weather App\build\intermediates\pre-dexed\debug\classes-ce56f59ef9061a9916049a4c3c4a5642134264a0.jar" />
+    </item>
+
+</items>

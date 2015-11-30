@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="temp">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="uv">UV Levels</string>
+    <string name="title_activity_main_volley">MainVolleyActivity</string>
+
+    <string name="current_conditions">Current Conditions</string>
+    <string name="forecast">Future 3 Day Forecast</string>
+    <string name="details">Selected Days Details</string>
+</resources>
